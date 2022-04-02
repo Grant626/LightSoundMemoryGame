@@ -39,7 +39,7 @@ TODO: Allow the computer to randomly generate patterns (different pattern length
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://recordit.co/SR3eOqAk6h)
+![](https://github.com/Grant626/LightSoundMemoryGame/blob/glitch/SITE2020_GIF_Fairfield.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
